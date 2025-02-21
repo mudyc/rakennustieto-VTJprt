@@ -15,7 +15,7 @@ Tällä hetkellä pysyvät rakennustunnukset eivät ole luotettavia maastotietok
 
 Tavoitteena on jatkaa PRT-tietojen linkittämistä maastotietokannan rakennuksille uudella maastotietojen tuotantojärjestelmällä ja tuoda PRT-tieto takaisin mukaan maastotietokannan tuotteisiin myöhemmin.
 
-##Mistä saan jatkossa tietoja rakennuksista?
+## Mistä saan jatkossa tietoja rakennuksista?
 Maastotietokannan rakennusten aluegeometriat - ilman pysyviä rakennustunnuksia - ovat edelleen käytettävissä Maastotietokannan kyselypalvelun (OGC API Features) kautta. Palvelusta voi hakea kaikkia maastotietokannan kohdeluokkia. Rakennukset löytyvät palvelusta omana karttatasonaan (karttatason nimi: rakennus).
 
 Ajantasaiset ja luotettavimmat tiedot pysyvistä rakennustunnuksista, muista rakennustiedoista ja rakennusten sijaintipisteistä saa Digi- ja väestötietoviraston Väestötietojärjestelmästä ja jatkossa Suomen ympäristökeskuksen Rakennetun ympäristön tietojärjestelmästä (Ryhti) tuotettavista tietopalveluista.
