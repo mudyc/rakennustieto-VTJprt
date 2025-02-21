@@ -6,7 +6,9 @@ Rakennustietoja​​ koko maasta. Aineisto sisältää rakennusten aluegeometri
 https://www.maanmittauslaitos.fi/palvelutiedotteet/rakennusten-kyselypalvelu-ogc-api-features-poistuu-kaytosta-kevaalla-2025
 
 Rakennusten kyselypalvelu (OGC API Features) poistuu käytöstä keväällä 2025
+
 11.12.2024
+
 Rakennusten kyselypalvelu (OGC API Features) poistuu käytöstä huhtikuun alussa 2025.  Palvelun kautta on voinut hakea maastotietokannan rakennusten aluegeometrioita.
 
 Osalle maastotietokannan rakennuksista on tallennettu myös tieto pysyvästä rakennustunnuksesta (PRT) hakemalla niille vastineet Väestötietojärjestelmän rakennustiedoista. Tavoitteena on ollut tunnusyhteyden luominen näiden kahden tietoaineiston välille.
