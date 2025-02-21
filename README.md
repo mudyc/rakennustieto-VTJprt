@@ -26,3 +26,47 @@ Lisätiedot
 verkkopalvelut@maanmittauslaitos.fi  
 Rakennusten kyselypalvelu (OGC API Features) (palvelukuvaus) 
 Maastotietokannan kyselypalvelu (OGC API Features) (palvelukuvaus)
+
+# Properties
+
+    "properties": {
+        "featureClass": "Building",
+        "kmtkId": "23e4df7d-8a7e-4211-a7f4-2e9d0f270092",
+        "version": 1,
+        "VTJprt": "104141584X",
+        "sourceId": "2268240717",
+        "PNRplaceId": null,
+        "startTime": "2024-11-25T18:42:49.651768Z",
+        "versionStartTime": "2024-11-25T18:42:49.651768Z",
+        "versionEndTime": null,
+        "endTime": null,
+        "dataSource": 1000,
+        "sourceModificationTime": "2024-11-19T22:00:00Z",
+        "state": null,
+        "verificationDate": null,
+        "updateReason": null,
+        "lifecycleStatus": 3,
+        "constructionDate": null,
+        "modificationDate": null,
+        "demolitionDate": null,
+        "function": null,
+        "area": null,
+        "floorArea": null,
+        "volume": null,
+        "heightAbsolute": null,
+        "heightAbsoluteAccuracy": null,
+        "heightRelative": null,
+        "floors": null,
+        "floorsAboveGround": null,
+        "relationToGround": 0,
+        "isFlightObstacle": null,
+        "hasElevator": null,
+        "isConnectedToGas": null,
+        "isConnectedToElectricity": null,
+        "isConnectedToWater": null,
+        "isConnectedToSewage": null,
+        "heatingType": null,
+        "heatingFuel": null,
+        "numberOfParts": 1,
+        "attributeDataSource": 1000
+    }
